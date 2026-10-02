@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.env
+
+# Streamlit config / cache
+.streamlit/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+
+# Output CSV data files (optional runtime files)
+*.csv
